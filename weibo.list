@@ -1,0 +1,11 @@
+domain, f.video.weibocdn.com, proxy
+domain-suffix, weibo.cn, proxy
+domain-suffix, weibo.com, proxy
+domain-suffix, weibocdn.com, proxy
+domain-suffix, sinajs.cn, proxy
+domain-suffix, sinaimg.cn, proxy
+domain-suffix, sina.com.cn, proxy
+user-agent, Weibo, proxy
+user-agent, Weibo intl., proxy
+user-agent, WeiboOverseas, proxy
+user-agent, WeiboWidgetExtension, proxy
